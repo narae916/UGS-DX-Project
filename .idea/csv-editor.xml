@@ -3,28 +3,70 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\clusters\Cluster0_tf-idf.csv">
+        <entry key="\광파오븐\clusters\Cluster0_tf-idf.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\data\ko-stopwords.csv">
+        <entry key="\광파오븐\clusters\Cluster1_tf-idf.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\data\result.csv">
+        <entry key="\광파오븐\clusters\Cluster2_tf-idf.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\naver_cafe_articles_final.csv">
+        <entry key="\광파오븐\clusters\Cluster3_tf-idf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\광파오븐\data\combined_youtube_comments.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\광파오븐\data\naver_blog.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\광파오븐\data\naver_cafe_articles_cleaned.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\광파오븐\data\naver_cafe_articles_final.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\광파오븐\data\naver_cafe_articles_final_new.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\광파오븐\data\광파오븐_공홈_리뷰.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
